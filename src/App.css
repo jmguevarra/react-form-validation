@@ -3,3 +3,25 @@
   padding: 0;
   margin: 0;
 }
+
+/* Modified Spaces in Bootstrap */
+
+.hero-section{
+  background-color: aliceblue;
+}
+
+.register-form{
+  width: 100%;
+  max-width: 620px;
+  color:#fff;
+  background-color: #585858;
+}
+
+.register-form .btn-primary{
+  width: 100%;
+  max-width: 300px;
+  border-radius: 50px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
